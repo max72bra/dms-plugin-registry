@@ -34,12 +34,12 @@
     "url": "https://github.com/hthienloc/dms-activate-linux"
   },
   "adguardVPplugin": {
-    "date": "2026-05-28T12:43:01-03:00",
+    "date": "2026-06-12T00:23:04-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-fYXgeb3E6xJmn+sSftt/vQzUaZHeNYQ7p363EqLiEl8=",
+    "hash": "sha256-ZE5/IwbXvIsI6Z4o0QA6Mq6jTa47PC6IHFdPqzwc1u4=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -64,12 +64,12 @@
       "repo": "https://github.com/bernardopg/dms-adguard-vpn-plugin",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/dms-adguard-vpn-plugin/main/docs/screenshot.png",
-      "version": "1.3.4"
+      "version": "1.4.0"
     },
-    "path": "/nix/store/8wyqhnm8bfjwc13f4jypzjwkq5wcs5aw-dms-adguard-vpn-plugin",
-    "rev": "d443ef1fda5326f8b74c294270dbac3fafa3ecb9",
+    "path": "/nix/store/r6f6kxg1s1m37vvm8yrmkib1dsl7xpwl-dms-adguard-vpn-plugin",
+    "rev": "70c90a4b5ebde492fd8d59864ea2bce2ce55f785",
     "rootDir": "",
-    "sha256": "0pqjwai15dvylwxq8dfyj5lx835xgzdpw4pbkxk15sy4pmwy11bx",
+    "sha256": "1vnn3hyanksp3j42wg1vmr6s7bij780d2a4yx448pg6p0qipykk4",
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
@@ -113,12 +113,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-06-10T17:23:08-03:00",
+    "date": "2026-06-11T16:43:21-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-xvUyPmym4YiTj/tksAVkIokNEADYDFpA4q8lWlvUoHI=",
+    "hash": "sha256-l+V7IRAc7qu5Nc+PUjpiPu7KexdqwPxd0HRjHgiEBic=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -142,12 +142,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.2.4"
+      "version": "1.4.1"
     },
-    "path": "/nix/store/pvmgklphb4mcf4sdclp8qgv2npmy1jjy-AiOverviewControl",
-    "rev": "a6c5200e4a6c0d61d7721771f7bb225ab779f23d",
+    "path": "/nix/store/7bnpss88vsh1hg3zqv5a41470pz1y23l-AiOverviewControl",
+    "rev": "bfd9ff5d41fda6e432663c64bdf1640c7775c704",
     "rootDir": "",
-    "sha256": "0wm0sidml9dgw905l36q0080v292ch2v0r7viy9qiqd6dhz35xf6",
+    "sha256": "09q6hh41wqvls1fzrh3a2xxwmviyc8x553yg6nwspvhw20hpprcp",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -5797,12 +5797,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-06-11T09:52:54+07:00",
+    "date": "2026-06-12T10:20:00+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mYd0ymJNFlbtniAsEMp57vNYkzn0wpUamLCjRTfAHu0=",
+    "hash": "sha256-lFSdNynePCXaoXSyh1RyF2NmRx9HLEZw2D3kY3AKqJA=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -5822,12 +5822,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "2.3.0"
+      "version": "2.4.0"
     },
-    "path": "/nix/store/3y2gaj1zbksp66y7c6qb4gyvwn5wj3hr-dms-quick-capture",
-    "rev": "959e97f121652ed9da747540a063d71a2d7234ab",
+    "path": "/nix/store/dk20fakwqd1bdmaf9wswfzpkvb1j7bmh-dms-quick-capture",
+    "rev": "c369e66e6c4e3154db03a8d191ebdbe228fa3364",
     "rootDir": "",
-    "sha256": "1v8yq0vlb8xhk0d9bhpl769miwzfg7510b10kvnmc5jdcb5791wr",
+    "sha256": "145819q67r1xv1q4cb273x3ncqqpf9a8gckll7d2ag6y54vrsm4l",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -6784,12 +6784,12 @@
     "url": "https://github.com/kerojiang/dms-transBin"
   },
   "unifiedTaskbar": {
-    "date": "2026-05-16T21:57:03-04:00",
+    "date": "2026-06-11T23:09:12-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Qnd9VQoRvWV1qP4GQsqAWussiSQm9kWMXvzmjTcptsE=",
+    "hash": "sha256-SeNAo2S+zWbvrTJI//QQynEfvMyFLj/ieEC1KDzztMs=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -6811,10 +6811,10 @@
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
       "version": "1.1.0"
     },
-    "path": "/nix/store/25h7lxw8xmc8m7pkxdj2y0vhwa642vqh-dms-unified-taskbar",
-    "rev": "1c175cb7f253d6bada00a8e5b83ce19cc4448248",
+    "path": "/nix/store/cmhrp6flfglv6ax6sjg99l8b9claaj6d-dms-unified-taskbar",
+    "rev": "488c00693ea86c1c789d39ce6e999322a8d3cf73",
     "rootDir": "",
-    "sha256": "1hdn54vqvrpwbs64bxi64j4jrsssh35441pym1snbg8i19apsxs2",
+    "sha256": "1jxlycy2ida0g3i3ybl5rjy1ywfa23sgyj1jmppndkdycjil1qs9",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "uptimeBar": {
@@ -7264,12 +7264,12 @@
     "url": "https://github.com/devnullvoid/dms-web-search"
   },
   "weeklyCalendar": {
-    "date": "2026-05-13T23:54:25-06:00",
+    "date": "2026-06-11T21:06:01-06:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-EpPSLD96ubo4b5itgSXidAO0+enquE1hm6DjWbBFvoI=",
+    "hash": "sha256-JFCTtcjsTUTBgZxIpVTOXUzmfYwAQzWqGb2qoC5e08E=",
     "leaveDotGit": false,
     "meta": {
       "author": "arqueon (ported from dodaars)",
@@ -7293,12 +7293,12 @@
       "name": "Weekly Calendar",
       "repo": "https://github.com/arqueon/dms-calendar",
       "screenshot": "https://raw.githubusercontent.com/arqueon/dms-calendar/master/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "2.0.0"
     },
-    "path": "/nix/store/2h1zx9pi3dk4lhj51yx85b6cplw7h2rl-dms-calendar",
-    "rev": "c7e300e1b09dca3a53a9036a37c79df9d21c6624",
+    "path": "/nix/store/mzssi8km5b8ac08nkar33h6phss84j6i-dms-calendar",
+    "rev": "052c359a85e197fc21cd87c2948f69d7397071d5",
     "rootDir": "",
-    "sha256": "10my8nq5kqx0kdhlvf7ax7wv80vlw8jq3bcqdwwbmfbs7wnd54qj",
+    "sha256": "1hfkbqpa1amx36m3ahq0iiyyck2xrraaaj4wh70l8kgcr2sr6l14",
     "url": "https://github.com/arqueon/dms-calendar"
   },
   "worldClock": {
