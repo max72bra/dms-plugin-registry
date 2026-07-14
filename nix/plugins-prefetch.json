@@ -113,12 +113,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-07-10T17:45:55-03:00",
+    "date": "2026-07-13T00:49:15-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ifgMfcvX5lyBHB9fD9h/NUU7L6Xr1iyY4MXiY81EXwo=",
+    "hash": "sha256-dEWTygMxYZGf60D8/AoWhNuer6oYWCY+IesmSMyztLA=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -142,12 +142,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
-    "path": "/nix/store/ll8lxnc95b9hbw2zay7p6hi2wa4ir19p-AiOverviewControl",
-    "rev": "b5ef98eb811e0a810ddcab98e67a3973d2bd2a20",
+    "path": "/nix/store/gmf5mcmvi360d9b0bii3k5z4a880rdp7-AiOverviewControl",
+    "rev": "87a0b1fa5b677b5dd523a0be05748f813ae9315b",
     "rootDir": "",
-    "sha256": "02jz8k6n7qn5w2c2rmpbllpkni9mgzc0ypqz3j0mrrnprdyhry49",
+    "sha256": "1c5lng64h9pb44z2cn0qmaprxnw42q5grz20xfgr2q9i0g596ibl",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -225,12 +225,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "ambientSound": {
-    "date": "2026-07-04T21:36:56+07:00",
+    "date": "2026-07-13T20:21:12+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-PwmKzTVgEsL8NYuaPXav3gMZtQzSiEdyp1LvuEQX8AU=",
+    "hash": "sha256-C9IBE5k1dQzOVgGRdVpLIP6pvjjVys18CXjymh8PzFc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -253,12 +253,12 @@
       "name": "Ambient Sound",
       "repo": "https://github.com/hthienloc/dms-ambient-sound",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ambient-sound/master/screenshot.png",
-      "version": "2.2.0"
+      "version": "2.3.0"
     },
-    "path": "/nix/store/zvdf37mfalz3hyrg7yh7s23fkld9m30c-dms-ambient-sound",
-    "rev": "d1db2c49ec410a601f2611d805cbfb97aaa7c0cb",
+    "path": "/nix/store/wp8l774a9l94w2x5p8ggllddwylbq21p-dms-ambient-sound",
+    "rev": "3d987f1a39e02e21d0bf9b33b42094367a69f771",
     "rootDir": "",
-    "sha256": "01gh2x2bivsjlxr4g26j1jsij0yymxv3v6lb6pyc44k06p6ql29z",
+    "sha256": "0myc1wgrmwkq15ycvjnm72zakzi09dd7b481av70qx9mk49h3lhb",
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
@@ -2758,12 +2758,12 @@
     "url": "https://github.com/PandorasFox/dms-discord-widget"
   },
   "displayManager": {
-    "date": "2026-05-19T15:11:14-03:00",
+    "date": "2026-07-13T09:05:34-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bX4RjBos916ktKWhiYV43DPGk83W3hzw43YcjiSAUvM=",
+    "hash": "sha256-VFM+NjZwTeUI92lEiWN61OMoT75p7PTmPaSZaMo3K7U=",
     "leaveDotGit": false,
     "meta": {
       "author": "felri",
@@ -2785,12 +2785,12 @@
       "name": "Display Manager",
       "repo": "https://github.com/felri/display-manager-plugin-niri-dank-linux",
       "screenshot": "https://raw.githubusercontent.com/felri/display-manager-plugin-niri-dank-linux/refs/heads/main/assets/screenshot.png",
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/lkfd35k3axjrjb43bk32llx8l0kl764x-display-manager-plugin-niri-dank-linux",
-    "rev": "7dd33c6c7c3f2962af14a735e86f92c44f73ea0c",
+    "path": "/nix/store/m7jp1waqyd8dq3s4i99qdbiqp7dwdgq9-display-manager-plugin-niri-dank-linux",
+    "rev": "f789f12a06793212ece407377ad53668b63f76b4",
     "rootDir": "",
-    "sha256": "1wsjh0j8w73nwgq1rpnnrn9wccywg22qk8d5njj5xxrc3a612zkd",
+    "sha256": "1d9b6z56i6d47pkg9v39pr7jiqylg9iqji39yw4fakbh6qv3wlsl",
     "url": "https://github.com/felri/display-manager-plugin-niri-dank-linux"
   },
   "displayMirror": {
@@ -3898,12 +3898,12 @@
     "url": "https://github.com/JDKamalakar/DMS-GitHub_HeatMap"
   },
   "githubNotifier": {
-    "date": "2026-07-10T18:39:34-03:00",
+    "date": "2026-07-12T23:40:39-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Om3/+yPPjxgJNsm4q8w3KQWaVFNhCG3iP7Eww0HT9qo=",
+    "hash": "sha256-ngoLMzXjdnLDoJ4b2er59N3YubWi7Q13AiUB9g2guTE=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -3927,21 +3927,21 @@
       "repo": "https://github.com/psyreactor/dms-githubNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-githubNotifier/raw/main/screenshot.png",
-      "version": "1.1.0"
+      "version": "1.1.1"
     },
-    "path": "/nix/store/99yz34fs18w5sdkfhwzl0pjn7g56hhc9-dms-githubNotifier",
-    "rev": "048bbb3f6a10b9fa51335f2de14e3fecad339af3",
+    "path": "/nix/store/kh25fm2wwh85qzvdv8yddfbaqvgqpry9-dms-githubNotifier",
+    "rev": "b1af35656f2ea6fac8d2b75e8fa54d62a1fc1fd5",
     "rootDir": "",
-    "sha256": "1apnsd0w6c5i7zi6s231ada9l1996z6apf696q4ii3yg4gxzyv9s",
+    "sha256": "0cdrl06zc09509vhvvd2nnwxipglz7mdj6wyl31p4xp36lrhn2ly",
     "url": "https://github.com/psyreactor/dms-githubNotifier"
   },
   "gitlabNotifier": {
-    "date": "2026-07-11T01:31:20-03:00",
+    "date": "2026-07-12T23:41:11-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uUcJuRq5WKgofookdFblqt6ydqYcr3I7nMRH6KBYdzY=",
+    "hash": "sha256-Ch2ji5clz2MUcJTj2S9wLLrshn0Wnm1ikcBk/Es0TX4=",
     "leaveDotGit": false,
     "meta": {
       "author": "psyreactor",
@@ -3965,12 +3965,12 @@
       "repo": "https://github.com/psyreactor/dms-gitlabNotifier",
       "requires_dms": ">0.0.28",
       "screenshot": "https://github.com/psyreactor/dms-gitlabNotifier/raw/main/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/nih0hkz20y9wjhbij1wsyc155yyfhpqx-dms-gitlabNotifier",
-    "rev": "7134f421f18f76a34852b179a9bb85f0e2c80b4f",
+    "path": "/nix/store/6hi6yb2833hm24rfimx4j31q81fmbzw6-dms-gitlabNotifier",
+    "rev": "4191319569c7b95f0f150c70c410c6aaca892a53",
     "rootDir": "",
-    "sha256": "0dkpb2hfhiy4khxp5bqwlrvb5pmawmb7894agqlahn5r3awhjixr",
+    "sha256": "0zjd6i5zqr60j5i6v7hngn3frficf0pxkqwlf0a67kr5jy5s678a",
     "url": "https://github.com/psyreactor/dms-gitlabNotifier"
   },
   "gitmojiLauncher": {
@@ -5797,12 +5797,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-07-13T03:20:40+07:00",
+    "date": "2026-07-14T02:52:49+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AQs0/cqBbjuDr6LCtqqNEx8jmrhfAicHmDssDgQSrDU=",
+    "hash": "sha256-uuvw8HbfPd3xcBWe1WHLu1rsKbzXc4mbSp20N6c744s=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -5822,12 +5822,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "2.16.2"
+      "version": "2.17.0"
     },
-    "path": "/nix/store/pq5m469yxxnq6xsadjw0c4prj604lvqs-dms-quick-capture",
-    "rev": "96287105cd73eb98b5c3f6c94f7ea7c9194414b2",
+    "path": "/nix/store/3ql7gijdlp2nady4lb2vyrs4axrw36h9-dms-quick-capture",
+    "rev": "acc58a5c20094d022c32f8035f543ba62c102509",
     "rootDir": "",
-    "sha256": "0ddc2820wb1vk03jf0jzp2d267qkinmbdhm2my1knvl1rbyk82q1",
+    "sha256": "12z37fkkgd4x9adqjwypphlyqnmvrdhxb7hmf3qxsgfzfvqg1sxs",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
