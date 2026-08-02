@@ -5797,12 +5797,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickCapture": {
-    "date": "2026-08-01T09:16:35+07:00",
+    "date": "2026-08-02T07:08:03+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8jp6D42Ga5XYX0OdINsx/IUIkapbbMoA19KrtB/DiIc=",
+    "hash": "sha256-znZqx6p6/ruM4MUVUOERrTySb67r+ZsDGKnRskOIZR8=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -5822,12 +5822,12 @@
       "name": "Quick Capture",
       "repo": "https://github.com/hthienloc/dms-quick-capture",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-quick-capture/main/screenshot.png",
-      "version": "3.8.0"
+      "version": "3.8.1"
     },
-    "path": "/nix/store/i8n9xy8fy5nq6wbsllvds1yrriwsmsff-dms-quick-capture",
-    "rev": "2c01629c653377ad9388644d8e603c132cab473b",
+    "path": "/nix/store/iyfq3yba4mmhxj9p57xp3wh17pp8xlwm-dms-quick-capture",
+    "rev": "05c629a9d5b698892ad4bdc8af2a5dfb4cd13ad3",
     "rootDir": "",
-    "sha256": "11w8qcgv9ayjsw0clv2vma8hi1gw67dj17a3bzc9asw6il7plfpj",
+    "sha256": "07v5i11v5ld9301rpygbmrpr4g5d27hm05f5w26bpzksmb3nlxnf",
     "url": "https://github.com/hthienloc/dms-quick-capture"
   },
   "quickTote": {
@@ -5944,12 +5944,12 @@
     "url": "https://github.com/smithyyang/dms-resource-monitor"
   },
   "sathiAi": {
-    "date": "2026-07-30T23:49:26-04:00",
+    "date": "2026-07-31T22:29:07-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-45Ja8BYZqTiIFNaqPBW48AddydSq2YyRaxN3uQYwn1w=",
+    "hash": "sha256-VAPclvsTMb1zGbZ6EL5rxENRFTWj5ktaP+hyyYzOtrI=",
     "leaveDotGit": false,
     "meta": {
       "author": "SSingh44",
@@ -5970,12 +5970,12 @@
       "name": "Sathi.AI",
       "repo": "https://github.com/ss44/sathi.ai",
       "screenshot": "https://raw.githubusercontent.com/ss44/sathi.ai/refs/heads/master/assets/screenshot-01.png",
-      "version": "1.7.0"
+      "version": "1.9.0"
     },
-    "path": "/nix/store/gw741wfi5dhy3b9ib4bm2bm67ld1jjij-sathi.ai",
-    "rev": "9501d11b2ac0fe76f74d9d819acdc2418148f74c",
+    "path": "/nix/store/bsrz767yy8b14bpik9n20p6fyaadn1wd-sathi.ai",
+    "rev": "b767c9ce7ada8267b85dcfdf1630735f836ca02a",
     "rootDir": "",
-    "sha256": "0p4z603bjxqkdf8qrndask4ms1zhp0akrann2j43ia8r2vq5m4p3",
+    "sha256": "1cmnrs6cjwp87xd4prm36lam2hy4dfz10ymn35rvsc8kzfbdq0sl",
     "url": "https://github.com/ss44/sathi.ai"
   },
   "screenCaptureToolbar": {
